@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Downloaded/generated media
+*.mp4
+*.wav
+*.mp3
+*.m4a
+*.webm
+
+# Generated output
+output/
+temp/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
